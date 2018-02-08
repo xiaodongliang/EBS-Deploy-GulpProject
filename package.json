@@ -6,7 +6,7 @@
   "scripts": {
     "preinstall": "npm install -g gulp",
     "gulp": "gulp",
-    "start": "run gulp" 
+    "start": "npm run gulp" 
   },
   "repository": {
     "type": "git",
