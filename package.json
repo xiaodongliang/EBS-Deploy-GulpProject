@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "preinstall": "npm install -g gulp",
-    "gulp": "gulp",
-    "start":"node server.js"
+    "gulp": "gulp" 
   },
   "repository": {
     "type": "git",
